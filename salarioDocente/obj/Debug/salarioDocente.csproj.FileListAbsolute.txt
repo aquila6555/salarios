@@ -1,0 +1,16 @@
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\salarioDocente.exe.config
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\salarioDocente.exe
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\salarioDocente.pdb
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MaterialSkin.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MetroFramework.Design.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MetroFramework.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MetroFramework.Fonts.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MetroSuite.dll
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\bin\Debug\MaterialSkin.pdb
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.csprojResolveAssemblyReference.cache
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.Form1.resources
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.Properties.Resources.resources
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.csproj.GenerateResource.Cache
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.exe
+c:\users\jd\documents\visual studio 2015\Projects\salarioDocente\salarioDocente\obj\Debug\salarioDocente.pdb
